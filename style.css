@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(27, 26, 26);
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    padding: 2px;
+}
+h1{
+    background: rgb(44, 44, 51);
+    text-align: center;
+    border-radius: 12px;
+}
+nav{
+    background-color: rgb(44, 44, 51);
+    padding: 1.5%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4%;
+    border-radius:12px;
+}
+.logo-img{
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(75, 72, 72);
+    border-radius: 50%;
+}
+.menu{
+    gap: 2%;
+}
+a{
+    text-decoration: none;
+    color: rgb(126, 105, 105);
+}
+a:hover{
+    color: rgb(131, 131, 189);
+}
+.login{
+    padding: 7px;
+    text-transform:uppercase;
+    font-size: 17px;
+    background-color: rgb(150, 114, 138);
+    border-radius:12px;
+    border: none;
+    font-weight: 500;
+}
+.fedback{
+    padding: 7px;
+    text-transform: uppercase;
+    font-size: 17px;
+    background-color: rgb(69, 69, 223);
+    border-radius: 12px;
+    border: none;
+    font-weight: 500;
+}

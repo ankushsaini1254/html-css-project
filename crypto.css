@@ -1,0 +1,78 @@
+section{
+    padding: 10px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.BLOCK{
+    padding: 10px;
+    margin: 2.5% 25%;
+    border: 1px solid rgb(59, 57, 57);
+    border-radius: 17px;
+    box-shadow: 2px 2px 2px rgb(56, 54, 54);
+    color: rgb(131, 133, 133);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.BLOCK:hover{
+    box-shadow: 5px 5px 5px;
+}
+.IPO{
+    padding: 10px;
+    border: 1px solid rgb(59, 57, 57);
+    border-radius: 17px;
+    box-shadow: 2px 2px 2px rgb(56, 54, 54);
+    color: rgb(131, 133, 133);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.IPO:hover{
+    box-shadow: 5px 5px 5px ;
+}
+h3{
+    text-align: center;
+}
+ul,ol{
+    padding: 4px 30px;
+}
+li{
+    padding: 4px ;
+}
+table{
+    border-radius: 10px;
+}
+.card-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+}
+.card{
+    margin:20px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid rgb(68, 65, 65);
+    border-radius: 17px;
+}
+.card:hover{
+    box-shadow: 5px 5px;
+    cursor:pointer;
+}
+marquee{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.CARD{
+    padding: 5px;
+    border:1px solid rgb(61, 56, 56);
+    border-radius: 17px;
+    margin:2px;
+}
+.CARD:hover{
+    box-shadow: 2.5PX 2.5PX 5PX ;
+}

@@ -1,0 +1,40 @@
+section{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 15% 19%;
+    padding: 30px;
+    background-color: rgb(48, 48, 45);
+    border-radius: 17px;
+}
+.login-hd{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 20px;
+}
+form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    size: 100px;
+}
+.fild{
+    margin: 4px;
+    border-radius: 7px;
+    border: none;
+    font-size: 17px;
+    color: rgb(207, 199, 184);
+}
+#submit{
+    width: 50%;
+    color: rgb(63, 44, 65);
+    background-color: rgb(129, 151, 144);
+}
+#reset{
+    width: 50%;
+    color: rgb(151, 151, 199);
+    background-color: rgb(9, 4, 14);
+}
