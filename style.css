@@ -40,8 +40,8 @@ a:hover{
     text-transform:uppercase;
     font-size: 17px;
     background-color: rgb(150, 114, 138);
+    color: #000;
     border-radius:12px;
-    border: none;
     font-weight: 500;
 }
 .fedback{
@@ -49,7 +49,7 @@ a:hover{
     text-transform: uppercase;
     font-size: 17px;
     background-color: rgb(69, 69, 223);
+    color: #000;
     border-radius: 12px;
-    border: none;
     font-weight: 500;
 }
