@@ -18,6 +18,12 @@ section{
 .BLOCK:hover{
     box-shadow: 5px 5px 5px;
 }
+.red{
+    color: rgb(206, 63, 63);
+}
+.green{
+    color: rgb(37, 139, 37);
+}
 .IPO{
     padding: 10px;
     border: 1px solid rgb(59, 57, 57);
